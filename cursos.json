@@ -1,0 +1,21 @@
+[{
+        "name": "Diseño y Nuevos Medios",
+        "code": "DNO037",
+        "about": "El curso analizará el conjunto de actitudes, conocimientos y habilidades en diseño, producción y publicación a través de los distintos medios digitales que ofrecen las tecnologías de la información y la comunicación a la sociedad contemporánea, con énfasis en la World Wide Web (WWW)"
+    },
+    {
+        "name": "Diseno y Manufactura Digital Cad/Cam",
+        "code": "DNO016",
+        "about": "El curso abordará el proceso de generación de formas en el proyecto de diseño, mediante el uso de software y máquinas/herramienta controladas por computador. Se espera que los estudiantes aprendan el uso de las tecnologías digitales en interacción con las herramientas tradicionales de representación logrando así un nivel avanzado en sus capacidades para la generación de formas a nivel de modelado, prototipado y manufactura de productos"
+    },
+    {
+        "name": "Taller: Mercado II",
+        "code": "DNO0421",
+        "about": "Este taller sitúa al alumno ante el reto de proponer soluciones a problemas de diseño sustentables en un determinado entorno competitivo, desde la perspectiva de los estudios de mercado. El taller se divide en secciones, abordando en cada una de ellas temas específicos de las líneas temáticas y perfiles profesionales cubiertos en la oferta educativa de la Escuela. Asimismo, el taller estudia todos aquellos actores que garantizan la viabilidad de la propuesta desarrollada en el proyecto, sustentada en datos cuantitativos de mercado. En el taller el alumno desarrollará competencias para enfrentar la complejidad derivada del manejo de un alto número de variables consustanciales a los proyectos que deberá resolver en su actividad profesional"
+    },
+    {
+        "name": "Design Bootcamp: Herramientas y Métodos Prácticos para Innovar",
+        "code": "DNO048",
+        "about": "En este curso las y los estudiantes de diversas disciplinas trabajarán en la creación de proyectos de innovación aplicando metodologías de diseño para facilitar su desarrollo. A través de técnicas, herramientas e instrumentos los estudiantes podrán potenciar la exploración creativa, el trabajo en equipos multidisciplinarios, la creación de conceptos y la propuesta de soluciones innovadoras y factibles. Para ello, se combinan clases expositivas con metodologías activas de trabajo en equipo. Se evaluará tanto el avance a lo largo del proceso como el resultado final del trabajo colaborativo a través de presentaciones en diversos formatos"
+    }
+]
